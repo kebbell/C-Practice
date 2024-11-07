@@ -21,3 +21,7 @@ int num4 = 32;
 double answer2 = num3 / num4;
 
 Console.WriteLine(answer2);
+
+// 4
+// Write a C# Sharp program to print the results of the specified operations.
+
