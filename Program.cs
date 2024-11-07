@@ -17,7 +17,7 @@ Console.WriteLine(answer);
 // Write a C# Sharp program to print the result of dividing two numbers.
 
 int num3 = 853;
-int num4 = 2132;
-int answer2 = num3 / num4;
+int num4 = 32;
+double answer2 = num3 / num4;
 
 Console.WriteLine(answer2);
