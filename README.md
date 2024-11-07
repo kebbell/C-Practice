@@ -4,7 +4,6 @@ C# Sharp Basic Exercises [104 exercises with solution]
 1. Write a C# Sharp program to print Hello and your name in a separate line.
 Expected Output :
 Hello: Alexandra Abramov
-Click me to see the solution
 
 2. Write a C# Sharp program to print the sum of two numbers.
 Click me to see the solution
