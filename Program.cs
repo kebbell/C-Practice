@@ -48,11 +48,11 @@
 // First Number : 6
 // Second Number : 5
 
-int num5 = 5;
-int num6 = 6;
+// int num5 = 5;
+// int num6 = 6;
 
 
-
+                            // COME BACK TO THE ABOVE
 
 
 
@@ -70,4 +70,5 @@ int num8 = 3;
 int num9 = 6;
 
 Console.WriteLine(num7 * num8 * num9);
+
 
