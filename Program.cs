@@ -57,7 +57,6 @@ int num6 = 6;
 
 
 
-
 // 6. Write a C# Sharp program to print the output of the multiplication of three numbers entered by the user.
 // Test Data:
 // Input the first number to multiply: 2
